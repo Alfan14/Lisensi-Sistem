@@ -1,0 +1,64 @@
+{
+    "license": [
+        {
+            "id": 1,
+            "name": "LMS-BY",
+            "desc": "This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. ",
+            "type": [
+                "Trial",
+                "Subscribe",
+                "Forever"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "LMS-BY-SA",
+            "desc": "This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.",
+            "type": [
+                "Trial",
+                "Subscribe",
+                "Forever"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "LMS-BY-NC",
+            "desc": "This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. ",
+            "type": [
+                "Trial",
+                "Subscribe",
+                "Forever"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "LMS-BY-NC-SA",
+            "desc": "This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. ",
+            "type": [
+                "Trial",
+                "Subscribe",
+                "Forever"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "LMS-BY-ND",
+            "desc": "This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use.",
+            "type": [
+                "Trial",
+                "Subscribe",
+                "Forever"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "LMS-BY-NC-ND",
+            "desc": "This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.",
+            "type": [
+                "Trial",
+                "Subscribe",
+                "Forever"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "license_data": [
+        {
+            "id": 0,
+            "name": "Uri",
+            "type_of_subscribe": "Trial",
+            "type_off_license": 3,
+            "aktivasi_token": "0083272a-a5a0-4c4d-a6fd-5b9118ee1eb4",
+            "activated_at": "2024-11-17 19:07:11",
+            "expires_at": "2024-11-24 19:07:11",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 1,
+            "name": "Hosim",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 3,
+            "aktivasi_token": "b9403d4d-d751-4216-9165-a18b3f52b550",
+            "activated_at": "2024-11-17 19:07:26",
+            "expires_at": "2024-12-17 19:07:26",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 2,
+            "name": "Ali",
+            "type_of_subscribe": "Forever",
+            "type_off_license": 5,
+            "aktivasi_token": "9ca20976-f476-4f6b-ab14-3824e4dd50de",
+            "activated_at": "2024-11-17 19:07:40",
+            "expires_at": "2124-10-24 19:07:40",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 3,
+            "name": "Zaki",
+            "type_of_subscribe": "Forever",
+            "type_off_license": 3,
+            "aktivasi_token": "87727dc1-2369-4dff-afcb-e3a1a4566089",
+            "activated_at": "2024-11-19 10:50:11",
+            "expires_at": "2124-10-26 10:50:11",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 4,
+            "name": "Aldian",
+            "type_of_subscribe": "Trial",
+            "type_off_license": 4,
+            "aktivasi_token": "73841e14-0276-4167-a2c3-4808b7315d9d",
+            "activated_at": "2024-11-19 11:17:29",
+            "expires_at": "2024-11-26 11:17:29",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 5,
+            "name": "Nina",
+            "type_of_subscribe": "Trial",
+            "type_off_license": 5,
+            "aktivasi_token": "27edb2f4-37b7-4980-bcac-d5410ae20125",
+            "activated_at": "2024-11-23 11:50:14",
+            "expires_at": "2024-11-30 11:50:14",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-ND",
+                "desc": "BY : credit must be given to the creator.ND : No derivatives or adaptations of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": false,
+                "nd": true
+            }
+        },
+        {
+            "id": 6,
+            "name": "Jinx",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 3,
+            "aktivasi_token": "0c7073b5-f9b4-4cd1-b439-d5b3cd03d774",
+            "activated_at": "2024-11-24 12:17:20",
+            "expires_at": "2024-12-24 12:17:20",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+    "license_data": [
+        {
+            "id": 0,
+            "name": "David",
+            "type_of_subscribe": "Forever",
+            "type_off_license": "4",
+            "aktivasi_token": "17d5253d-186f-4333-b482-725373539b4b",
+            "activated_at": "2024-11-23 13:37:15",
+            "expires_at": "2124-10-30 13:37:15",
+            "active": true,
+            "license": null
+        },
+        {
+            "id": 0,
+            "name": "Dani",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": "4",
+            "aktivasi_token": "2e634996-fdf9-4ee1-b6b5-c87146bcd969",
+            "activated_at": "2024-11-23 13:40:57",
+            "expires_at": "2024-12-23 13:40:57",
+            "active": true,
+            "license": null
+        },
+        {
+            "id": 0,
+            "name": "Aji",
+            "type_of_subscribe": "Trial",
+            "type_off_license": 3,
+            "aktivasi_token": "436ba2f8-a2c7-47c9-8b9f-f606fb299f5a",
+            "activated_at": "2024-11-23 13:58:24",
+            "expires_at": "2024-11-30 13:58:24",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "keysia",
+            "type_of_subscribe": "Forever",
+            "type_off_license": 4,
+            "aktivasi_token": "3583a8b5-173e-43bd-a46c-7d39653a0c6d",
+            "activated_at": "2024-11-23 14:10:26",
+            "expires_at": "2124-10-30 14:10:26",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "06d27c93-2b00-4217-861d-af2f70b6e0a6",
+            "activated_at": "2024-11-23 14:18:13",
+            "expires_at": "2024-12-23 14:18:13",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "1d2a644b-e13e-449f-a905-51fa60b235d7",
+            "activated_at": "2024-11-23 14:18:48",
+            "expires_at": "2024-12-23 14:18:48",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 1,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "c7cd01f2-bd37-4a86-97d6-17b7325a5431",
+            "activated_at": "2024-11-23 14:19:45",
+            "expires_at": "2024-12-23 14:19:45",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 2,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "f7c69a68-255b-4485-a217-27917f4f2fdb",
+            "activated_at": "2024-11-23 14:21:34",
+            "expires_at": "2024-12-23 14:21:34",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 3,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "5f898424-887d-40f4-ad00-daafff05180a",
+            "activated_at": "2024-11-23 14:21:51",
+            "expires_at": "2024-12-23 14:21:51",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 4,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "77af68ce-bd05-45eb-b506-f39af73d5592",
+            "activated_at": "2024-11-23 14:22:15",
+            "expires_at": "2024-12-23 14:22:15",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 5,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "099216e0-d79d-4dfa-8177-382f787f1732",
+            "activated_at": "2024-11-23 14:23:22",
+            "expires_at": "2024-12-23 14:23:22",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 6,
+            "name": "Alfan  ",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "e3b9cb1c-6388-46c5-aa64-504138e9e65d",
+            "activated_at": "2024-11-23 14:23:45",
+            "expires_at": "2024-12-23 14:23:45",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 7,
+            "name": "Frank Sinantra",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 3,
+            "aktivasi_token": "0edc9809-b56d-4055-b0fe-0b838dbb5d8e",
+            "activated_at": "2024-11-23 14:24:41",
+            "expires_at": "2024-12-23 14:24:41",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Frank Sinantra",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "4145a567-0b5d-40bc-b259-240b06be4f1b",
+            "activated_at": "2024-11-24 11:33:14",
+            "expires_at": "2024-12-24 11:33:14",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Jonas",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 3,
+            "aktivasi_token": "13d9ee87-1916-4afa-9ba1-2b965c0f5acd",
+            "activated_at": "2024-11-24 11:53:03",
+            "expires_at": "2024-12-24 11:53:03",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Jonas",
+            "type_of_subscribe": "Forever",
+            "type_off_license": 3,
+            "aktivasi_token": "72b09529-eaba-45c0-a99d-8d4d4525e74b",
+            "activated_at": "2024-11-24 12:00:14",
+            "expires_at": "2124-10-31 12:00:14",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Ijak",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "f5ac5712-5bdd-498e-a33e-ba7538184c8a",
+            "activated_at": "2024-11-24 12:05:17",
+            "expires_at": "2024-12-24 12:05:17",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Jonash",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 2,
+            "aktivasi_token": "40c0c9b2-7ff5-404a-8c42-0d8f71e85804",
+            "activated_at": "2024-11-24 12:06:44",
+            "expires_at": "2024-12-24 12:06:44",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-SA",
+                "desc": "BY: credit must be given to the creator.SA:Adaptations must be shared under the same terms.",
+                "by": true,
+                "sa": true,
+                "nc": false,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Jonash",
+            "type_of_subscribe": "Forever",
+            "type_off_license": 2,
+            "aktivasi_token": "94737e84-36b3-46e5-a4b6-cc62e1558b9e",
+            "activated_at": "2024-11-24 12:08:38",
+            "expires_at": "2124-10-31 12:08:38",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-SA",
+                "desc": "BY: credit must be given to the creator.SA:Adaptations must be shared under the same terms.",
+                "by": true,
+                "sa": true,
+                "nc": false,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Jalu",
+            "type_of_subscribe": "Trial",
+            "type_off_license": 3,
+            "aktivasi_token": "695c0412-e739-4c12-afe3-b4a89dd35d62",
+            "activated_at": "2024-11-24 12:13:03",
+            "expires_at": "2024-12-01 12:13:03",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC",
+                "desc": "BY : credit must be given to the creator.NC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": false,
+                "nc": true,
+                "nd": false
+            }
+        },
+        {
+            "id": 0,
+            "name": "Hinata",
+            "type_of_subscribe": "Subscribe",
+            "type_off_license": 4,
+            "aktivasi_token": "9f2d69c5-1a6e-43eb-8b79-99428f108529",
+            "activated_at": "2024-11-24 12:15:27",
+            "expires_at": "2024-12-24 12:15:27",
+            "active": true,
+            "license": {
+                "type": "LMS-BY-NC-SA",
+                "desc": "BY : credit must be given to the creator.SA : Adaptations must be shared under the same terms.\nNC : Only noncommercial uses of the work are permitted.",
+                "by": true,
+                "sa": true,
+                "nc": true,
+                "nd": false
+            }
+        }
+    ]
+}
