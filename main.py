@@ -20,6 +20,9 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     return render_template('index.html')
+@app.route("/users")
+def user():
+    return render_template('users/index.html')
 @app.route("/admin")
 def admin():
     return render_template('admin/index.html')
@@ -95,7 +98,7 @@ def license():
 def log():
     return render_template('admin/jobs/activity-logs.html')
 @app.route("/admin/user")
-def user():
+def admin_user():
     return render_template('admin/jobs/users.html')
 @app.route("/admin/setting")
 def setting():
