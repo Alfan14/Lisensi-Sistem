@@ -1,10 +1,10 @@
-Description
-Ini adalah projek akhir semester 3 matakuliah struktur data menggunakan Flask.
+# Description
+Ini adalah projek akhir semester 3 matakuliah struktur data menggunakan Flask dengan sistem kontrak lisensi.
 
-Penggunaan :
+# Penggunaan :
 windows-> powershell
 
-git clone https://github.com/hardyscc/nestjs-cqrs-starter.git <Nama_Projekmu>
+git clone https://github.com/Alfan14/Lisensi-Sistem.git <Nama_Projekmu>
 cd <Nama_Projekmu>
 
 pip install venv
