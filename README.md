@@ -5,6 +5,7 @@ Ini adalah projek akhir semester 3 matakuliah struktur data menggunakan Flask de
 windows-> powershell
 
 git clone https://github.com/Alfan14/Lisensi-Sistem.git <Nama_Projekmu>
+
 cd <Nama_Projekmu>
 
 pip install venv
